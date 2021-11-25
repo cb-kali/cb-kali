@@ -2,7 +2,7 @@
 **cb-kali/cb-kali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 <h1 align="center">Hi 👋, I'm Chetan bansal (Cb-Kali)</h1>
-<h3 align="center">I'm Chetan Bansal, I am Cyber Security Mentor in The Infosquad. I'm ex inter in Keycybr and my roles is Cyber Crime Investigation and Research. I'm interesting in cyber investigation, security, forensic as well as cyber defence. I wrote one book cyber crime and online safety under Nitin pandey sir. Currently I'm persuing diploma in information technology enabled service and management at Ambedkar institute of technology now I'm 3rd year student.</h3>
+<h3 align="center">I'm Chetan Bansal, I am Cyber Security Mentor in The Infosquad. I'm ex inter in Keycybr and my roles is Cyber Crime Investigation and Research. I'm interesting in cyber investigation, security, forensic as well as cyber defence. I wrote one book cyber crime and online safety under Nitin pandey sir.</h3>
 
 - 📝 I regularly write articles on [https://hackingwithpythontools.blogspot.com/](https://hackingwithpythontools.blogspot.com/)
 
